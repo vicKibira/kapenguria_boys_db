@@ -1,0 +1,11 @@
+version: 2
+
+models: 
+  - name: stg_attendance
+  - name: stg_class
+  - name: stg_courses
+  - name: stg_enrollment
+  - name: stg_fee
+  - name: stg_grades
+  - name: stg_students
+  - name: stg_teachers

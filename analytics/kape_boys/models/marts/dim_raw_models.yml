@@ -1,0 +1,47 @@
+version: 2
+models:
+  - name: dim_fee
+    description: all fee details
+    columns:
+      - name: student_id
+        description: students identififcation number
+        tests:
+          - unique
+          - not null
+
+  - name: dim_grades
+    description: all grades details
+    columns:
+      - name: grade_id
+        description: primary key for the grades table
+        tests:
+          - unique
+          - not null
+
+  - name: dim_high_low_grades
+    columns:
+      - name: student_id
+        tests:
+          - unique
+          - not null
+
+  - name: dim_outstanding_fee
+    columns:
+      - name: student_id
+        tests:
+          - unique
+          - not null
+
+  - name: dim_sex
+    columns:
+      - name: student_id
+        tests:
+          - unique
+          - not null
+
+  - name: dim_students
+    columns:
+      - name: class_id
+        tests:
+          - unique
+          - not null
