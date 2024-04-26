@@ -1,0 +1,15 @@
+version: 2
+
+sources: 
+  - name: staging
+    database: kapengiria_school
+    schema: public
+    tables:
+      - name: attendance
+      - name: class
+      - name: course
+      - name: enrollment
+      - name: fee
+      - name: grades
+      - name: students
+      - name: teachers
