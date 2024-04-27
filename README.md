@@ -40,9 +40,7 @@ To set up the project, follow these steps:
   
    ```cd postgres_setup docker-compose up -d```
    
-- Execute the SQL script in PostgreSQL by navigating to the pgAdmin GUI at localhost:5050,do:
-   ```cd kapee_sql``` copy the script to create the database
-  
+- Execute the SQL script in ```cd kapee_sql```  to create the database
 - Use DBT to model the data in the PostgreSQL database:
   
   ```cd analytics/kape_boys dbt run```
