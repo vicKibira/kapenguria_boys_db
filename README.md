@@ -16,7 +16,8 @@ Metabase: An open-source data visualization tool used to create the dashboard.
 
 **Project structure**
 
-``` kapenguria_boys_db
+```
+.
 ├── README.md
 ├── analytics
 ├── kapee_sql
