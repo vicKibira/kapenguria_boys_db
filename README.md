@@ -1,4 +1,4 @@
-**kapenguria Boys High School Database Project**
+**kapenguria boys high school database project**
 
 **Introduction**
 
