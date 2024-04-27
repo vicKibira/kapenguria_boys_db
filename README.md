@@ -14,6 +14,16 @@ DBT (Data Build Tool): An analytics engineering tool used for modeling data.
 
 Metabase: An open-source data visualization tool used to create the dashboard.
 
+**Project structure**
+
+``` kapenguria_boys_db
+├── README.md
+├── analytics
+├── kapee_sql
+├── metabase_setup
+└── postges_setup
+```
+
 **Getting Started**
 
 To set up the project, follow these steps:
