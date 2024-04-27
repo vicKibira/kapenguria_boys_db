@@ -26,6 +26,7 @@ To set up the project, follow these steps:
    ```cd kapenguria_boys_db```
    
 - Run Docker to set up the PostgreSQL server container:
+  
    ```cd postgres_setup docker-compose up -d```
    
 - Execute the SQL script in PostgreSQL by navigating to the pgAdmin GUI at localhost:5050.
