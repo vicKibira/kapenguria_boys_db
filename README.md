@@ -1,4 +1,4 @@
-**kapenguria boys high school data modelling **
+**kapenguria boys high school data modelling**
 
 **Introduction**
 
