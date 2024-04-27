@@ -44,7 +44,7 @@ Once the setup is complete, you can use the following resources:
 PostgreSQL Database: Access the database to query and manage the school data.
 Metabase Dashboard: Visualize analyses and insights from the school data.
 
-**Dashboard Link**
+**Dashboard**
 ![Alt text](modified_school.png)
 
 
