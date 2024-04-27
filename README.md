@@ -7,8 +7,11 @@ This project aims to create a small database for Kapenguria Boys High School, an
 **Tools Used**
 
 PostgreSQL: An open-source relational database management system.
+
 Docker: A containerization platform used to containerize the PostgreSQL server.
+
 DBT (Data Build Tool): An analytics engineering tool used for modeling data.
+
 Metabase: An open-source data visualization tool used to create the dashboard.
 
 **Getting Started**
