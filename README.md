@@ -32,6 +32,7 @@ To set up the project, follow these steps:
 - Execute the SQL script in PostgreSQL by navigating to the pgAdmin GUI at localhost:5050.
   
 - Use DBT to model the data in the PostgreSQL database:
+  
   ```cd analytics/kape_boys dbt run```
 - Set up Metabase to visualize the data and create the dashboard.
   
