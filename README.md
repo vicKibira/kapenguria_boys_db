@@ -45,6 +45,8 @@ PostgreSQL Database: Access the database to query and manage the school data.
 Metabase Dashboard: Visualize analyses and insights from the school data.
 
 **Dashboard Link**
+![Alt text](modified_school.png)
+
 
  You can access the "School Insights Hub" dashboard through the following link: 
   http://localhost:3000/public/dashboard/b089b371-ac53-4d0e-8fe9-79059de31ca8
