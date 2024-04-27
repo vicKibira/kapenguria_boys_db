@@ -23,7 +23,6 @@ To set up the project, follow these steps:
   
    ```git clone https://github.com/vicKibira/kapenguria_boys_db.git```
 - Navigate to the project directory:
-  
    ```cd kapenguria_boys_db
 - Run Docker to set up the PostgreSQL server container:
   
