@@ -17,9 +17,12 @@ Metabase: An open-source data visualization tool used to create the dashboard.
 **Getting Started**
 
 To set up the project, follow these steps:
-- Install Docker on your system if not already installed.
+- Install Docker on your system if not already installed.Follow this https://docs.docker.com/desktop/install/linux-install/ 
+ installation instructions
 - Clone the project repository:
+- 
    `git clone https://github.com/vicKibira/kapenguria_boys_db.git`
+  
 - Navigate to the project directory:
    ' bash cd kapenguria_boys_db'
 - Run Docker to set up the PostgreSQL server container:
