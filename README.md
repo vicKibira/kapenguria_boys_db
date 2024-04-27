@@ -23,15 +23,15 @@ To set up the project, follow these steps:
   
    ```git clone https://github.com/vicKibira/kapenguria_boys_db.git```
 - Navigate to the project directory:
-   ```cd kapenguria_boys_db
+   ```cd kapenguria_boys_db```
    
 - Run Docker to set up the PostgreSQL server container:
-   ```cd postgres_setup docker-compose up -d
+   ```cd postgres_setup docker-compose up -d```
    
 - Execute the SQL script in PostgreSQL by navigating to the pgAdmin GUI at localhost:5050.
   
 - Use DBT to model the data in the PostgreSQL database:
-  ```cd analytics/kape_boys dbt run
+  ```cd analytics/kape_boys dbt run```
 - Set up Metabase to visualize the data and create the dashboard.
   
 **Usage**
