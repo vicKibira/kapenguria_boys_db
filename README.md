@@ -30,6 +30,7 @@ To set up the project, follow these steps:
    ```cd postgres_setup docker-compose up -d```
    
 - Execute the SQL script in PostgreSQL by navigating to the pgAdmin GUI at localhost:5050.
+   ```cd kapee_sql``` copy the script to postgres database
   
 - Use DBT to model the data in the PostgreSQL database:
   
