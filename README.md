@@ -35,6 +35,8 @@ To set up the project, follow these steps:
   
   ```cd analytics/kape_boys dbt run```
 - Set up Metabase to visualize the data and create the dashboard.
+
+  ```docker run -d -p 3000:3000 --name metabase --network=postges_setup_default metabase/metabase```
   
 **Usage**
 
