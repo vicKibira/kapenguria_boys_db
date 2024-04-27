@@ -2,7 +2,7 @@
 
 **Introduction**
 
-This project aims to create a small database for Kapenguria Boys High School, an imaginary institution, using PostgreSQL. The database consists of eight tables: attendance, class, course, enrollment, fee, grades, students, and teachers. The goal is to containerize the PostgreSQL server using Docker, model the data using DBT (Data Build Tool), and visualize analyses through a simple dashboard named in Metabase.
+This project aims to create a small database for Kapenguria Boys High School, an imaginary institution, using PostgreSQL. The database consists of eight tables: attendance, class, course, enrollment, fee, grades, students, and teachers. The goal is to containerize the PostgreSQL server using Docker, model the data using DBT (Data Build Tool), and visualize analyses through a simple dashboard in Metabase.
 
 **Tools Used**
 
